@@ -4,7 +4,7 @@
 
 .header {
   overflow: hidden;
-  background-color: #8fb6ea;
+  background-color: #94bef5;
   padding: 10px 5px;
 }
 
@@ -25,12 +25,12 @@
 }
 
 .header a:hover {
-  background-color: #abc0f6;
+  background-color: #7f8eb4;
   color: black;
 }
 
 .header a.active {
-  background-color: dodgerblue;
+  background-color: rgb(79, 126, 174);
   color: white;
 }
 
